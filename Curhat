@@ -1,6 +1,7 @@
 figlet CURHAT | lolcat
 
 
+
 read -p "mulai curhat? : " pil
 read -p "curhatin tentang apa? : " pil
 echo "OK aku dengerin curhat kamu"
@@ -12,5 +13,5 @@ figlet Jangan | lolcat
 figlet sedih | lolcat
 echo "keep strongg!"
 
-echo "Kontak admin jika script isi rusak 089528100123"
+echo "Kontac admin jika script isi rusak 089528100123"
 </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
